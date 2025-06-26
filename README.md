@@ -1,4 +1,4 @@
-<img src="" alt="project screenshot" />
+<img src="./src/assets/project_screenshot.png" alt="project screenshot" />
 
 # 💼 Swaroop Sakharkar — React Portfolio
 
@@ -30,7 +30,7 @@ Featuring a modular React structure, reusable components, and responsive layout,
 
 
 ## 🗂️ File Structure
-<img src="" alt="file structure" />
+<img src="./src/assets/file_structure.png" alt="file structure" />
 
 ## 📜 License
 This project is open-source and available under the MIT License.
